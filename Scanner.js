@@ -211,5 +211,7 @@ function main(file_path,API_Key){
 //Calling main function with TextFile Path and API-Key as input parameters.
 
 // PLEASE ENTER YOUR PATH AND API-KEY HERE.
-main('C:\\Users\\Hardik\\Desktop\\OPSWAT\\Code.txt','ENTER API_KEY')
+path = 'C:\\Users\\Hardik\\Desktop\\OPSWAT\\Code.py'
+API_Key = 'ENTER API_KEY'
+main(path, API_Key)
 
